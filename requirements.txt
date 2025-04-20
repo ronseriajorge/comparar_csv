@@ -1,3 +1,4 @@
 dask[dataframe]
 pandas
 faker
+tqdm
